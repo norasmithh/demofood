@@ -3,6 +3,8 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+
+
     "frontend": {
       "projectType": "application",
       "schematics": {},
@@ -23,9 +25,11 @@
             "assets": [
               "src/favicon.ico",
               "src/assets"
+
             ],
             "styles": [
               "src/styles.css"
+
             ],
             "scripts": []
           },
